@@ -68,7 +68,6 @@ The portfolio volatility of **16.66%** is meaningfully lower than each constitue
 
 As shown in the chart, the equal-weighted portfolio generated a cumulative return of approximately **~6×** over the 10-year period (2013–2022), significantly outperforming the Nifty 50 benchmark, which returned roughly **~3×** over the same period. The portfolio's outperformance is particularly pronounced post-2020, likely driven by strong recoveries in technology (TCS) and telecom (Bharti Airtel) sectors.
 
-![Cumulative Returns](<img width="463" height="369" alt="Screenshot 2026-02-24 230158" src="https://github.com/user-attachments/assets/02c2537f-eb1e-4d72-9fda-94df8769a10e" />
-)
+![Cumulative Returns]("C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-02-24 230158.png")
 
 > **Note:** Past performance does not guarantee future results. This analysis is for educational purposes only.
